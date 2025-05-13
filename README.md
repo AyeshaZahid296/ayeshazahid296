@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ayesha Zahid</h1>
 
-- 💬 Ask me about **Java, C++, Html, CSS , Js ,Bootstrap , Tailwind , Firebase , React , MongoDB**
+- 💬 Ask me about **Java, C++, HTML, CSS, JS, Bootstrap, Tailwind, Firebase, React, MongoDB**
 
 - 📫 How to reach me: **ayeshazahid296@gmail.com**
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ayeshazahid296&theme=flat&margin-w=10&title=-Reviews)](https://github.com/ayeshazahid296/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayeshazahid296&theme=darkhub&margin-w=10&title=-Reviews)](https://github.com/ayeshazahid296/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <!-- <a href="https://instagram.com/awan.1296" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-    </a> -->
-     <a href="https://www.linkedin.com/in/ayeshazahid296/" target="_blank">
+    <a href="https://www.linkedin.com/in/ayeshazahid296/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
 </p>
@@ -39,9 +36,6 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
     </a>
-<!--     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-    </a> -->
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
     </a>
@@ -51,43 +45,24 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
     </a>
-     <!-- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
-    </a> -->
-<!--     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-    </a> -->
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
     </a> 
-    <!-- <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-    </a> -->
-    <!-- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /> 
-    </a> -->
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
     </a>
-    <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-    </a> -->
-    
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
     </a> 
-<!--     <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
-    </a> -->
-
+</p>
 
 <!-- GitHub Stats -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyeshaZahid296&show_icons=true&locale=en&layout=compact&theme=light" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyeshaZahid296&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyeshaZahid296&show_icons=true&locale=en&theme=light" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyeshaZahid296&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p> 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaZahid296&theme=light" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaZahid296&theme=tokyonight" alt="GitHub Streak" />
 </p>
