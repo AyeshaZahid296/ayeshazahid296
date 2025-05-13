@@ -80,14 +80,14 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
     </a> -->
 
-
 <!-- GitHub Stats -->
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=AyeshaZahid296&show_icons=true&locale=en&theme=light" alt="GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyeshaZahid296&show_icons=true&locale=en&layout=compact&theme=light" alt="Top Languages" />
 </p>
 <p>&nbsp;
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyeshaZahid296&show_icons=true&locale=en&layout=compact&theme=light" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=AyeshaZahid296&show_icons=true&locale=en&theme=light" alt="GitHub Stats" />
 </p> 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaZahid296&theme=light" alt="GitHub Streak" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaZahid296&theme=light" alt="GitHub Streak" />
 </p>
+
