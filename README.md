@@ -83,10 +83,10 @@
 
 <!-- GitHub Stats -->
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyeshaZahid296&show_icons=true&locale=en&theme=light" alt="GitHub Stats" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=AyeshaZahid296&show_icons=true&locale=en&theme=light" alt="GitHub Stats" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyeshaZahid296&show_icons=true&locale=en&layout=compact&theme=light" alt="Top Languages" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyeshaZahid296&show_icons=true&locale=en&layout=compact&theme=light" alt="Top Languages" />
 </p> 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaZahid296&theme=light" alt="GitHub Streak" />
