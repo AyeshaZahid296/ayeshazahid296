@@ -1,75 +1,172 @@
 <h1 align="center">Hi 👋, I'm Ayesha Zahid</h1>
 
-- 💬 Ask me about **Java, C++, Html, CSS, Js, Bootstrap, Tailwind, Firebase, React, MongoDB**
+- 💬 Ask me about **Java, C++, Html, CSS , Js ,Bootstrap , Tailwind , Firebase , React , MongoDB**
+
 - 📫 How to reach me: **ayeshazahid296@gmail.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayeshazahid296&theme=flat&margin-w=10&title=-Reviews)](https://github.com/ayeshazahid296/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ayeshazahid296&theme=flat&margin-w=10&title=-Reviews)](https://github.com/ayeshazahid296/github-profile-trophy)
 
----
-
-## 🧑‍💻 About Me
-
-- 🎓 I am currently pursuing a **Bachelor's in Computer Engineering** at **Bahria University Karachi**.
-- 💻 Passionate about **Front-End Development** with a focus on modern web technologies.
-- 📚 Currently learning **MERN Stack** and working on enhancing my **UI/UX design** skills.
-- 💡 I am actively involved in **Open Source Contributions** and enjoy building useful web applications.
-- ✉️ Feel free to reach out via email: [ayeshazahid296@gmail.com](mailto:ayeshazahid296@gmail.com)
-
----
-
-## 🧩 Skills & Tools
-
-### Programming Languages
-- **C++**, **Java**, **JavaScript**, **HTML5**, **CSS3**
-
-### Frameworks & Libraries
-- **React**, **Bootstrap**, **Tailwind CSS**
-
-### Tools & Technologies
-- **GitHub**, **Firebase**, **MongoDB**, **Postman**
-- **Adobe Illustrator**, **Canva**, **Figma**
-
----
-
-## 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayeshazahid296&theme=flat&margin-w=10&title=commits)](https://github.com/ayeshazahid296/github-profile-trophy)
-
----
-
-## 🔗 Connect with Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/ayeshazahid296/" target="_blank">
+    <!-- <a href="https://instagram.com/awan.1296" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    </a> -->
+     <a href="https://www.linkedin.com/in/ayeshazahid296/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+    </a>
+    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+    </a>
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+    </a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+    </a>
+<!--     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+    </a> -->
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+    </a>
+     <!-- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
+    </a> -->
+<!--     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
+    </a> -->
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+    </a> 
+    <!-- <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+    </a> -->
+    <!-- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /> 
+    </a> -->
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+    </a>
+    <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+    </a> -->
+    
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+    </a> 
+<!--     <a href="https://redis.io" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
+    </a> -->
+
+
+<h1 align="center">Hi 👋, I'm Ayesha Zahid</h1>
+
+- 💬 Ask me about **Java, C++, Html, CSS , Js ,Bootstrap , Tailwind , Firebase , React , MongoDB**
+
+- 📫 How to reach me: **ayeshazahid296@gmail.com**
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ayeshazahid296&theme=flat&margin-w=10&title=-Reviews)](https://github.com/ayeshazahid296/github-profile-trophy)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <!-- <a href="https://instagram.com/awan.1296" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    </a> -->
+     <a href="https://www.linkedin.com/in/ayeshazahid296/" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+    </a>
+    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+    </a>
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+    </a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+    </a>
+<!--     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+    </a> -->
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+    </a>
+     <!-- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
+    </a> -->
+<!--     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
+    </a> -->
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+    </a> 
+    <!-- <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+    </a> -->
+    <!-- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /> 
+    </a> -->
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+    </a>
+    <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+    </a> -->
+    
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+    </a> 
+<!--     <a href="https://redis.io" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
+    </a> -->
+
+
 ---
 
-## 💼 Education
-
-- 🎓 **Bachelor's in Computer Engineering** from **Bahria University Karachi**
-
----
-
-## 🚀 Featured Projects
-
-### [Task Manager](https://github.com/ayeshazahid296/task-manager)
-A task management app built with **React** and **Firebase** for real-time task tracking and management.
-
----
-
-## 🏅 Certifications
-
-- **Web And Mobile App Development** - Saylani Mass IT Training Program
-- **Graphic Designing** - Digiskills
-- **MongoDB** - 10 Pearls University
-- **Introduction to API Testing with Postman** - 10 Pearls University
-
----
-
-## 💻 GitHub Stats & Streaks
+## 💻 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AyeshaZahid296&show_icons=true&locale=en&theme=light" alt="GitHub Stats" />
@@ -84,28 +181,3 @@ A task management app built with **React** and **Firebase** for real-time task t
 </p>
 
 ---
-
-## 🌱 I’m Currently Learning
-
-- **MERN Stack** (MongoDB, Express.js, React, Node.js)
-- **UI/UX Design** Principles
-
----
-
-## 📈 My GitHub Streaks
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaZahid296&theme=light" alt="GitHub Streak" />
-</p>
-
----
-
-## 😄 Fun Facts
-
-- ☕ Coffee or tea? I can't function without either!
-- 🎨 A fan of designing in **Figma** and **Adobe Illustrator** when I’m not coding.
-- 🌍 I love **exploring new technologies** and contributing to **open-source** projects.
-
----
-
-<p align="center">Thanks for visiting my profile 💖</p>
