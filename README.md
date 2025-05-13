@@ -83,7 +83,7 @@
 
 <!-- GitHub Stats -->
 <p>
-  <img align="left" "https://github-readme-stats.vercel.app/api?username=AyeshaZahid296&show_icons=true&locale=en&theme=light" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyeshaZahid296&show_icons=true&locale=en&theme=light" alt="GitHub Stats" />
 </p>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyeshaZahid296&show_icons=true&locale=en&layout=compact&theme=light" alt="Top Languages" />
