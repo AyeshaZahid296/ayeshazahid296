@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayesha Zahid</h1>
 
-- 💬 Ask me about **Java, C++, Html, CSS , Js ,Bootstrap , Tailwind , Firebase , React , MongoDB**
+- 💬 Ask me about **Java, C++, Html, CSS , Js ,Bootstrap , Tailwind , Firebase , React , MongoDB , Postman**
 
 - 📫 How to reach me: **ayeshazahid296@gmail.com**
 
