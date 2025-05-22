@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: **ayeshazahid296@gmail.com**
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ayeshazahid296&theme=flat&margin-w=10&title=-Reviews)](https://github.com/ayeshazahid296/github-profile-trophy)
+  <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ayeshazahid296&theme=flat&margin-w=10&title=-Reviews)](https://github.com/ayeshazahid296/github-profile-trophy) -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <!-- <a href="https://instagram.com/awan.1296" target="_blank">
